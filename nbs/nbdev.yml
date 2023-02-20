@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_overview"
+  site-url: "https://curator8.github.io/nbdev_overview"
+  description: "following https://www.youtube.com/watch?v=67FdzLSt4aA&t=0s&ab_channel=JeremyHoward with Jeremy and Hamel to learn about nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/curator8/nbdev_overview"
